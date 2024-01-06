@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChatSignalR.Pl.API", "WebChatSignalR.Pl.API\WebChatSignalR.Pl.API.csproj", "{EB443B84-7BFF-48D8-9A05-2D513EAAD627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChatSignalR.DAL", "WebChatSignalR.DAL\WebChatSignalR.DAL.csproj", "{3B4731BF-AB0F-470C-AB15-98D60C887BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChatSignalR.BL", "WebChatSignalR.BL\WebChatSignalR.BL.csproj", "{97FACF1B-6D5F-42AC-A9D7-A2C088CF55BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB443B84-7BFF-48D8-9A05-2D513EAAD627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB443B84-7BFF-48D8-9A05-2D513EAAD627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB443B84-7BFF-48D8-9A05-2D513EAAD627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB443B84-7BFF-48D8-9A05-2D513EAAD627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4731BF-AB0F-470C-AB15-98D60C887BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4731BF-AB0F-470C-AB15-98D60C887BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4731BF-AB0F-470C-AB15-98D60C887BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4731BF-AB0F-470C-AB15-98D60C887BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FACF1B-6D5F-42AC-A9D7-A2C088CF55BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FACF1B-6D5F-42AC-A9D7-A2C088CF55BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FACF1B-6D5F-42AC-A9D7-A2C088CF55BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FACF1B-6D5F-42AC-A9D7-A2C088CF55BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
